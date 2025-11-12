@@ -91,11 +91,11 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 <div align="center">
 
-| Project               | Description                              | Tech Stack                               |
-| --------------------- | ---------------------------------------- | ---------------------------------------- |
-| **Calorai Mobile**    | Cross-platform nutrition tracking app    | React Native, Expo, TypeScript, Supabase |
-| **Portfolio Website** | Modern personal portfolio & case studies | Next.js, Tailwind CSS, Framer Motion     |
-| **DevOps Automation** | CI/CD pipelines & cloud infrastructure   | Docker, AWS, N8N, Nginx                  |
+| Project                                                     | Description                                                    | Tech Stack                                 |
+| ----------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
+| **[WebForge Academy](https://webforgeacademy.tech)**        | Educational platform for web development & programming courses | React, Next.js, Tailwind CSS, TypeScript   |
+| **[El Hage Jewelers](https://el-hage-jewelers.vercel.app)** | E-commerce jewelry store with modern UI/UX design              | Next.js, Tailwind CSS, Payment Integration |
+| **[Masdar](https://masdar.com)**                            | Professional platform contribution                             | React, TypeScript, Modern Architecture     |
 
 </div>
 
@@ -105,12 +105,12 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 <div align="center">
 
-- ⭐ **100+ Stars** across all GitHub projects
-- 🔧 **Active Contributor** to open-source ecosystems
-- 🎖️ **Stack Overflow** contributor with 10K+ reputation
-- 📱 **Mobile Apps** deployed on iOS & Android
-- 🚀 **Production Applications** serving 1000+ users
-- 🏢 **Organizational Projects** - Contributions across multiple organizations tracked
+- 🎯 **Multiple Production Projects** deployed and live
+- 🏗️ **Full-Stack Development** - From concept to deployment
+- 💻 **Frontend Specialist** with expertise in modern frameworks
+- 🎨 **UI/UX Focus** on creating beautiful, functional interfaces
+- 🚀 **Performance Optimization** & scalable architecture
+- 🏢 **Professional Experience** - Working with organizations
 
 </div>
 
@@ -124,10 +124,10 @@ Always excited to collaborate on innovative projects, discuss technology, or exp
 
 **Drop me a message or connect with me on any of these platforms:**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omair@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omair.khoder.01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omair-khoder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omair-khoder.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omair_kh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omair_kh_)
 
 ---
 

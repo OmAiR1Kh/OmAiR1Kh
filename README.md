@@ -38,7 +38,7 @@ Full-stack developer with a passion for modern frontend architecture, cloud infr
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmAiR1Kh&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmAiR1Kh&show_icons=true&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmAiR1Kh&theme=tokyonight&hide_border=true&layout=compact)
 

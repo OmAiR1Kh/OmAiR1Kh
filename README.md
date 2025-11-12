@@ -78,8 +78,8 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ### 🏆 Activity Summary
 
 - **Total Public Repos:** 50+ repositories
-- **Private Contributions:** Included in stats via `count_private=true`
-- **Organization Contributions:** All commits tracked via `include_all_commits=true`
+- **Private Contributions:** Included in stats above
+- **Organization Contributions:** All commits included in stats above
 - **Languages:** TypeScript, JavaScript, Python, and more
 - **Avg. Commits Per Day:** Actively contributing daily
 
